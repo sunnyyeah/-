@@ -1,4 +1,4 @@
-# StudyTimeCount
+# StudyTimeCountV2
 
 实现平台qt creator
 
