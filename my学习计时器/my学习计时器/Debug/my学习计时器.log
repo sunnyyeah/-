@@ -1,0 +1,22 @@
+﻿  item.cpp
+e:\0_study\c_c++\5_iterm\my学习计时器\my学习计时器\item.cpp(11): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+e:\0_study\c_c++\5_iterm\my学习计时器\my学习计时器\item.cpp(26): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+e:\0_study\c_c++\5_iterm\my学习计时器\my学习计时器\item.cpp(42): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(475): note: 参见“ctime”的声明
+e:\0_study\c_c++\5_iterm\my学习计时器\my学习计时器\item.cpp(43): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+e:\0_study\c_c++\5_iterm\my学习计时器\my学习计时器\item.cpp(55): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(475): note: 参见“ctime”的声明
+e:\0_study\c_c++\5_iterm\my学习计时器\my学习计时器\item.cpp(56): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+e:\0_study\c_c++\5_iterm\my学习计时器\my学习计时器\item.cpp(94): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\0_study\c_c++\5_iterm\my学习计时器\my学习计时器\item.cpp(111): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 参见“localtime”的声明
+  正在生成代码...
+  正在编译...
+  main.cpp
+  正在生成代码...
+  my学习计时器.vcxproj -> E:\0_Study\C_C++\5_iterm\my学习计时器\Debug\my学习计时器.exe
+  my学习计时器.vcxproj -> E:\0_Study\C_C++\5_iterm\my学习计时器\Debug\my学习计时器.pdb (Full PDB)
