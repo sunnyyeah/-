@@ -277,9 +277,9 @@ void Widget::on_stopTaskBtn_clicked()
         task = '#' + task;
 
         // 第一天的学习时长
-        double h = item->getStartS() > 0 ? 24 - item->getStartH() - 1 : 24 - item->getStartH();
-        double m = item->getStartS() > 0 ? 60 - item->getStartM() - 1 : 60 - item->getStartM();
-        double s = 60 - item->getStartS();
+        double h = item->getStartHMS()[2] > 0 ? 24 - item->getStartHMS()[0] - 1 : 24 - item->getStartHMS()[0];
+        double m = item->getStartHMS()[2] > 0 ? 60 - item->getStartHMS()[1] - 1 : 60 - item->getStartHMS()[1];
+        double s = 60 - item->getStartHMS()[2];
         double totaltime = h + (s / 60.0 + m) / 60.0;
 
         QString studytime = QString::number(totaltime,'g',3) + 'h';
